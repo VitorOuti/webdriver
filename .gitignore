@@ -1,0 +1,6 @@
+# Ignorar o ambiente virtual chamado webdriver
+webdriver/
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
