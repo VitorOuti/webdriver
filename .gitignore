@@ -4,3 +4,4 @@ webdriver/
 # Ignorar arquivos temporários do sistema
 .DS_Store
 Thumbs.db
+__pycache__/
